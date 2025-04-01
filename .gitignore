@@ -1,0 +1,5 @@
+node_modules/
+files/
+Code_Along/
+dist/
+.cache/
